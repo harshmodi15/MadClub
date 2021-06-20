@@ -5,3 +5,6 @@ MadClub Task 1
 
 
 ![Screenshot (156)](https://user-images.githubusercontent.com/73059937/122678941-64571f00-d206-11eb-8aaf-e57779780025.png)
+
+
+![OutputDart1](https://user-images.githubusercontent.com/73059937/122679000-ac764180-d206-11eb-8e13-4f27eaa8616a.png)
